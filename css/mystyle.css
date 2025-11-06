@@ -1,0 +1,28 @@
+/* Add your own CSS under here */
+h1 {
+  font-family: 'Lobster', cursive;
+  color: #1d3557;
+  margin-top: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #457b9d;
+  margin-top: 15px;
+}
+
+body {
+  background-color: #f8f9fa; /* subtle light grey */
+}
+
+.navbar, footer {
+  background-color: #1d3557;
+}
+
+.navbar a, footer p {
+  color: #f1faee;
+}
+
+.navbar a:hover {
+  color: #a8dadc;
+}
